@@ -6,5 +6,6 @@
   </head>
   <body>
     <h1>Nadpis</h1>
+    <p>Úplne zbytočný text!</p>
   </body>
 </html>
