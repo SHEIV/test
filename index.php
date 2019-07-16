@@ -15,11 +15,7 @@
       <li>3</li>
       <li>4</li>
       <li>5</li>
-<<<<<<< HEAD
       <li>6</li>
-=======
-      <li>7</li>
->>>>>>> seven
     </ul>
   </body>
 </html>
