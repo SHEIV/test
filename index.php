@@ -10,8 +10,8 @@
     <h2>Podnadpis</h2>
     <p>Úplne zbytočný text!</p>
     <ul>
-      <li>jeden</li>
-      <li>dva</li>
+      <li>jeden - 1</li>
+      <li>dva - 2</li>
     </ul>
   </body>
 </html>
